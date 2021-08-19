@@ -1,1 +1,12 @@
+  body{
+   background-color: aqua;
+   zoom: inherit;   
+  }
+
+  button{
+      background-color: burlywood;
+      text-decoration-color: crimson;
+      text-decoration-thickness: bold;
+      size: 25vmax;
+  }
   
